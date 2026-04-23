@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Asakundwi
 
-<!--
-**dev-Asakundwi07/dev-Asakundwi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at TUT (Tshwane University of Technology)  
+💻 Passionate about software development and problem-solving  
+🚀 Currently learning and building with Java, HTML, CSS & JavaScript  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Technologies  
+- Java ☕  
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 🎯 Current Focus
+- Improving my programming fundamentals  
+- Building small projects to strengthen my skills 
+
+---
+
+## 🚀 Goals
+- Become a skilled software developer  
+- Build real-world applications  
+- Contribute to open-source projects  
+
+---
+
+## 📫 Contact
+- GitHub: dev-Asakundwi07
+- Email: mpetegiven@gmail.com
