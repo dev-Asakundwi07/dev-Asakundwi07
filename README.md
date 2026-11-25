@@ -16,7 +16,8 @@
 
 ## 🎯 Current Focus
 - Improving my programming fundamentals  
-- Building small projects to strengthen my skills 
+- Building small projects to strengthen my skills
+- Built a Java SA ID validator(https://github.com/dev-Asakundwi07/SA-id-validator)
 
 ---
 
