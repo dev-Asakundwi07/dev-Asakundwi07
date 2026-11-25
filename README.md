@@ -30,4 +30,4 @@
 
 ## 📫 Contact
 - GitHub: dev-Asakundwi07
-- Email: mpetegiven@gmail.com
+- Email: mpeteasakundwi@gmail.com
